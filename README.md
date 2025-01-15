@@ -2,7 +2,7 @@
 Predict the price of airline ticket prices given day, time, location remaining days to flight etc.
 
 # Environment and Library Versions
----
+
 ## **Environment**
 - **Platform:** Google Colab  
   - Configured to treat a specific folder as the project root:  
@@ -38,7 +38,7 @@ Predict the price of airline ticket prices given day, time, location remaining d
 ```
 
 # Project Details
----
+
 ## **Dataset**
 - [Flight Prices Dataset on Kaggle](https://www.kaggle.com/datasets/dilwong/flightprices/data)
 
@@ -51,7 +51,7 @@ Predict the price of airline ticket prices given day, time, location remaining d
 
 
 ## **Source Code Overview**
----
+
 ### **data_subset.ipynb**
 - **Purpose:** Downloads historical price data from Kaggle.
 - **Process:** Filters for the top 5 most frequent flight routes.
